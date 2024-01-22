@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on **improving my skills**
 
 - 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [portfolio]((https://github.com/kamiliano1))
+- 👨‍💻 All of my projects are available at [portfolio](https://github.com/kamiliano1)
 
 - 📫 How to reach me **k.p.szymon@outlook.com**
 
