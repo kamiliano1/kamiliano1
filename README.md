@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **improving my skills**
 
 - 🌱 I’m currently learning **Next.js**
-- 👨‍💻 All of my projects are available at [portfolio](https://kamil-szymon-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://kamilszymon.com)
 
 - 📫 How to reach me **k.p.szymon@outlook.com**
 
